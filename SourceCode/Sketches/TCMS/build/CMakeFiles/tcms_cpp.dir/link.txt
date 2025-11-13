@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -flto -shared  -o tcms_cpp.cpython-310-x86_64-linux-gnu.so CMakeFiles/tcms_cpp.dir/tcms_cpp.cpp.o  /usr/lib/x86_64-linux-gnu/libpython3.10.so /usr/lib/gcc/x86_64-linux-gnu/12/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
